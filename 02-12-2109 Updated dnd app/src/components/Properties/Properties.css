@@ -1,0 +1,15 @@
+.properties__fields{
+    padding:30px;
+    /* margin: 30px; */
+    
+}
+
+.v-center{
+    left: 50%;
+    position: relative;
+}
+
+.validation__label{
+    padding:0px 15px;
+}
+

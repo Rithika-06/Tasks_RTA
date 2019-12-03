@@ -1,0 +1,13 @@
+.inputfields {
+  height: 100%;
+  width: 200px;
+  /* background-color: #fff; */
+  background-color: rebeccapurple;
+  position: fixed!important;
+  z-index: 1;
+  overflow: auto;
+  padding:50px;
+}
+.workspace{
+  margin-left: 220px;
+}
